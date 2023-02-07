@@ -77,3 +77,7 @@ Then load up Energy Trace and perform the similar capture of Power with the LED 
 
 # Screenshots and Answers to Questions
 
+Question one: it is because the CPU was powered off and that will make the pooling higher
+Question two: It is because it is in lowpower mode and that will save the power.
+<img width="860" alt="Power with polling" src="https://user-images.githubusercontent.com/123121053/217319949-9a2aa547-c8b1-4074-884a-de271f5f743f.png">
+<img width="859" alt="Power with interuupt " src="https://user-images.githubusercontent.com/123121053/217319984-7e9aa97f-1a85-484e-8d1d-3d92ef39e1f3.png">
