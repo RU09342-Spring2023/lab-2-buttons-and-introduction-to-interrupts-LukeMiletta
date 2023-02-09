@@ -128,4 +128,4 @@ int main(void)
 ## Submission
 Description of code
 
-Basically when the code starts and no one is infrom of the sensor it will blink the when the left button (P4.1) is pressed it will blink the red light for .5 millisecound intervals. 
+Basically when the code starts and no one is infront of the sensor it will blink the green light every three secounds. Then if someone is infront of the sensor the green light will turn off and the red light will blink every .5 secounds and a timer will start. After that if there is someone infront of the sensor for 10 secounds or more the redlight will turn solid. When the red light is solid then you will press the right button to reset the code form the beggining. 
